@@ -2,3 +2,13 @@ Exclusivo OR - XOR
 A 0 0 1 1 
 B 0 1 0 1
 S 0 1 1 0
+
+NOT Exclusivo
+A 0 0 1 1 
+B 0 1 0 1
+S 1 0 0 1
+
+NOT AND - NAND
+A 0 0 1 1
+B 0 1 0 1
+S 1 1 1 0
